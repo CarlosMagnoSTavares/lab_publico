@@ -1,0 +1,2 @@
+QTD USDT/VALOR ATUAL ADA = QTD==100%
+Definir quantos % vai para cada estrategia 
